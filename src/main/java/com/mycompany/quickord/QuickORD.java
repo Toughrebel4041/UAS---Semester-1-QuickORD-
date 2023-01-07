@@ -11,6 +11,8 @@ package com.mycompany.quickord;
 public class QuickORD {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        HomeScreen hs = new HomeScreen();
+        hs.setVisible(true);
+        hs.setResizable(false);
     }
 }

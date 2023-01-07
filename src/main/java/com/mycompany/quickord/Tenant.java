@@ -121,7 +121,7 @@ public class Tenant extends javax.swing.JFrame {
         jLabel2.setFont(new java.awt.Font("Segoe UI", 1, 36)); // NOI18N
         jLabel2.setText("Our Tenant"); // NOI18N
 
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Black and Yellow Simple Modern Burger Logo.jpg"))); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Black and Yellow Simple Modern Burger Logo.jpg"))); // NOI18N
 
         jButton4.setBackground(new java.awt.Color(255, 102, 0));
         jButton4.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -144,7 +144,7 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton4, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/2.jpg"))); // NOI18N
+        jLabel11.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/2.jpg"))); // NOI18N
 
         jButton9.setBackground(new java.awt.Color(255, 102, 0));
         jButton9.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -167,7 +167,7 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton9, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Blue Orange White Vintage Cafe and Restaurant Logo.jpg"))); // NOI18N
+        jLabel12.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Blue Orange White Vintage Cafe and Restaurant Logo.jpg"))); // NOI18N
 
         jButton10.setBackground(new java.awt.Color(255, 102, 0));
         jButton10.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -190,7 +190,7 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton10, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Logo Nasi Goreng Ilustrasi Organik Kuning.jpg"))); // NOI18N
+        jLabel13.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Logo Nasi Goreng Ilustrasi Organik Kuning.jpg"))); // NOI18N
 
         jButton11.setBackground(new java.awt.Color(255, 102, 0));
         jButton11.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -213,7 +213,7 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton11, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Logo Gratis Lucu Unik Dapur Mertua.jpg"))); // NOI18N
+        jLabel14.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Logo Gratis Lucu Unik Dapur Mertua.jpg"))); // NOI18N
 
         jButton12.setBackground(new java.awt.Color(255, 102, 0));
         jButton12.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -236,7 +236,7 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton12, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Coffee Logo.jpg"))); // NOI18N
+        jLabel15.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Coffee Logo.jpg"))); // NOI18N
 
         jButton13.setBackground(new java.awt.Color(255, 102, 0));
         jButton13.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -259,7 +259,7 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton13, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Merah Oranye Logo Sederhana Rumah Makan Jual Mie.jpg"))); // NOI18N
+        jLabel16.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Merah Oranye Logo Sederhana Rumah Makan Jual Mie.jpg"))); // NOI18N
 
         jButton14.setBackground(new java.awt.Color(255, 102, 0));
         jButton14.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -282,7 +282,7 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton14, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jLabel17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Logo Rumah Makan Padang Simpel Oranye Kuning.jpg"))); // NOI18N
+        jLabel17.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Logo Rumah Makan Padang Simpel Oranye Kuning.jpg"))); // NOI18N
 
         jButton15.setBackground(new java.awt.Color(255, 102, 0));
         jButton15.setFont(new java.awt.Font("Segoe UI", 1, 12)); // NOI18N
@@ -305,9 +305,9 @@ public class Tenant extends javax.swing.JFrame {
                 .addComponent(jButton15, javax.swing.GroupLayout.PREFERRED_SIZE, 30, javax.swing.GroupLayout.PREFERRED_SIZE))
         );
 
-        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/rewind-button2.png"))); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rewind-button2.png"))); // NOI18N
 
-        jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/rewind-button.png"))); // NOI18N
+        jButton3.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/rewind-button.png"))); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -344,7 +344,7 @@ public class Tenant extends javax.swing.JFrame {
                         .addComponent(jPanel15, javax.swing.GroupLayout.PREFERRED_SIZE, javax.swing.GroupLayout.DEFAULT_SIZE, javax.swing.GroupLayout.PREFERRED_SIZE)))
                 .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
                 .addComponent(jButton2, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addContainerGap(27, Short.MAX_VALUE))
+                .addContainerGap(javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
@@ -375,11 +375,11 @@ public class Tenant extends javax.swing.JFrame {
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED, javax.swing.GroupLayout.DEFAULT_SIZE, Short.MAX_VALUE)
                         .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
                             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                                .addComponent(jButton2)
-                                .addGap(190, 190, 190))
-                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
                                 .addComponent(jButton3, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                                .addGap(196, 196, 196))))))
+                                .addGap(196, 196, 196))
+                            .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
+                                .addComponent(jButton2)
+                                .addGap(190, 190, 190))))))
         );
 
         javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());

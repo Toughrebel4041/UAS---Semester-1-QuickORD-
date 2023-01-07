@@ -15,6 +15,7 @@ public class HomeScreen extends javax.swing.JFrame {
      */
     public HomeScreen() {
         initComponents();
+        this.setVisible(true);
     }
 
     /**
@@ -44,7 +45,7 @@ public class HomeScreen extends javax.swing.JFrame {
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
-        QOLogo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/Funny_Food_Delivery_Logo-removebg-preview.png"))); // NOI18N
+        QOLogo.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/Funny Food Delivery Logo(edit).jpg"))); // NOI18N
 
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 48)); // NOI18N
         jLabel1.setText("Your FOOD!"); // NOI18N
@@ -79,7 +80,7 @@ public class HomeScreen extends javax.swing.JFrame {
         jLabel3.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
         jLabel3.setText("to choose what and when they want to eat .");
 
-        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/com/mycompany/quickord/22631368_6645552.jpg"))); // NOI18N
+        jLabel6.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/22631368_6645552.jpg"))); // NOI18N
 
         javax.swing.GroupLayout jPanel1Layout = new javax.swing.GroupLayout(jPanel1);
         jPanel1.setLayout(jPanel1Layout);
@@ -101,20 +102,17 @@ public class HomeScreen extends javax.swing.JFrame {
                 .addComponent(jLabel6)
                 .addGap(35, 35, 35))
             .addGroup(jPanel1Layout.createSequentialGroup()
-                .addGap(18, 18, 18)
                 .addComponent(QOLogo)
                 .addGap(0, 0, Short.MAX_VALUE))
         );
         jPanel1Layout.setVerticalGroup(
             jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING)
             .addGroup(javax.swing.GroupLayout.Alignment.TRAILING, jPanel1Layout.createSequentialGroup()
-                .addGap(19, 19, 19)
-                .addComponent(QOLogo, javax.swing.GroupLayout.PREFERRED_SIZE, 42, javax.swing.GroupLayout.PREFERRED_SIZE)
-                .addGap(63, 63, 63)
+                .addContainerGap()
+                .addComponent(QOLogo, javax.swing.GroupLayout.PREFERRED_SIZE, 63, javax.swing.GroupLayout.PREFERRED_SIZE)
+                .addGap(55, 55, 55)
                 .addGroup(jPanel1Layout.createParallelGroup(javax.swing.GroupLayout.Alignment.LEADING, false)
-                    .addGroup(jPanel1Layout.createSequentialGroup()
-                        .addComponent(jLabel6)
-                        .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED))
+                    .addComponent(jLabel6)
                     .addGroup(jPanel1Layout.createSequentialGroup()
                         .addComponent(jLabel2, javax.swing.GroupLayout.PREFERRED_SIZE, 43, javax.swing.GroupLayout.PREFERRED_SIZE)
                         .addPreferredGap(javax.swing.LayoutStyle.ComponentPlacement.RELATED)
@@ -180,6 +178,7 @@ public class HomeScreen extends javax.swing.JFrame {
 
         /* Create and display the form */
         java.awt.EventQueue.invokeLater(new Runnable() {
+            @Override
             public void run() {
                 new HomeScreen().setVisible(true);
             }
@@ -199,4 +198,8 @@ public class HomeScreen extends javax.swing.JFrame {
     private javax.swing.JTextField nameinput;
     private javax.swing.JButton namesubmit;
     // End of variables declaration//GEN-END:variables
+
+    void setPositionRelativeTo(Object object) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
