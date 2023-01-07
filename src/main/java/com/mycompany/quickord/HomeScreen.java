@@ -72,7 +72,7 @@ public class HomeScreen extends javax.swing.JFrame {
         namesubmit.setText("Submit");
 
         jLabel4.setFont(new java.awt.Font("Segoe UI", 0, 16)); // NOI18N
-        jLabel4.setText("QuickORD! is an app to aid people");
+        jLabel4.setText("QuickORD! is an app to aid people,");
         jLabel4.setToolTipText("");
         jLabel4.setMaximumSize(new java.awt.Dimension(120, 25));
         jLabel4.setMinimumSize(new java.awt.Dimension(120, 25));
